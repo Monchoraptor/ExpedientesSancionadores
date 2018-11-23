@@ -1,0 +1,5 @@
+package expedientessancionadores;
+
+class Notificacion {
+
+}
